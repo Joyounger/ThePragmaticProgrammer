@@ -1,0 +1,2 @@
+https://pragprog.com/book/tpp/the-pragmatic-programmer
+https://blog.codinghorror.com/a-pragmatic-quick-reference/
